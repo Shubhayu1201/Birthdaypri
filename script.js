@@ -95,7 +95,7 @@ function startNotes() {
         "Your smile and your beautiful eyes has the power to light up my entire day!!",
         "You are the sunshine on my rainy days and warmth on my cold nights...",
         "I am so grateful to have you in my life.You made me a little mature and better...  You’re my treasure!!The most precious one.. ",
-        "Thanks for not getting bored of listening this immature child and not judging me and helping me with all the problems!!!",
+        "Thanks for not getting bored of listening to this immature child,for not judging me and helping me with all my problems!!!",
         "Thank you for being so amazing, kind, and beautiful soul you are...With you, everything feels perfect cause you are so perfect. You make my world complete... ",
         "You are the best Hermione,I could have been keep on writing about you but you have many people’s waiting, so I will write them some other day..",
         "I wanted to make something special for your birthday...so, I studied a whole new thing for the past few days to make it on my own without the help of AI..It is not perfect but its exclusive for you!!..Hope you like it",
